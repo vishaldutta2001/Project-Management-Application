@@ -11,7 +11,7 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@mui/material": "^6.2.0",
+    "@mui/material": "^6.4.0",
     "@mui/x-data-grid": "^7.23.1",
     "axios": "^1.7.9",
     "date-fns": "^4.1.0",
@@ -23,11 +23,11 @@
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^19.0.0",
-    "recharts": "^2.14.1"
+    "recharts": "^2.15.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20.17.10",
+    "@types/node": "^20.17.14",
     "@types/numeral": "^2.0.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
